@@ -18,4 +18,9 @@ Deep learning, Reinforcment Learning, or whatever AI paper interesting to read
 ## Reinforcment Learning
 
 - Self-Supervised Reinforcment Learning that Transfers using Random Features
-    - Paper: https://arxiv.org/pdf/2305.17250  
+    - Paper: https://arxiv.org/pdf/2305.17250
+
+## Representation Learning
+
+- Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs
+    - Paper: https://arxiv.org/pdf/2410.23875  
