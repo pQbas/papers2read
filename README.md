@@ -2,7 +2,6 @@
 Deep learning, Reinforcment Learning, or whatever AI paper interesting to read
 
 ## Natural Language Processing Papers
-
 - nGPT: Normalized Transformer with Representation Learning on the Hypersphere
     - Paper: https://arxiv.org/pdf/2410.01131v1
 
@@ -23,4 +22,7 @@ Deep learning, Reinforcment Learning, or whatever AI paper interesting to read
 ## Representation Learning
 
 - Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs
-    - Paper: https://arxiv.org/pdf/2410.23875  
+    - Paper: https://arxiv.org/pdf/2410.23875
+
+- Self-Supervised Interpretable End-to-End Learning via Latent Funcionality Modularity
+    - Paper: https://arxiv.org/pdf/2403.18947 
