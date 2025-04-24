@@ -1,9 +1,10 @@
 # papers2read
 Deep learning, Reinforcment Learning, or whatever AI paper interesting to read
 
-## Natural Language Processing Papers
-- nGPT: Normalized Transformer with Representation Learning on the Hypersphere
-    - Paper: https://arxiv.org/pdf/2410.01131v1
+## Natural Language Processing
+
+[nGPT: Normalized Transformer with Representation Learning on the Hypersphere](https://arxiv.org/pdf/2410.01131v1)
+[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 
 ## Robotics
@@ -28,6 +29,4 @@ Deep learning, Reinforcment Learning, or whatever AI paper interesting to read
     - Paper: https://arxiv.org/pdf/2403.18947 
 
 
-## NLP
 
-[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
