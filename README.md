@@ -14,7 +14,7 @@ Deep learning, Reinforcment Learning, or whatever AI paper interesting to read
 
 - 2024
 
-    - [Self-Improving Autonomous Underwater Manipulation](https://arxiv.org/abs/2410.18969)
+    - [Self-Improving Autonomous Underwater Manipulation](https://arxiv.org/pdf/2410.18969)
     - [Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers](https://vid2robot.github.io/vid2robot.pdf) 
 
 ## Reinforcment Learning
