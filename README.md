@@ -11,17 +11,13 @@ Deep learning, Reinforcment Learning, or whatever AI paper interesting to read
 
 
 ## Robotics
-- Self-Improving Autonomous Underwater Manipulation
-    - Webpage: https://aquabot.cs.columbia.edu/
-    - Paper: https://arxiv.org/abs/2410.18969
+- [Self-Improving Autonomous Underwater Manipulation](https://arxiv.org/abs/2410.18969)
 
-- Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers  
-    - Paper: https://vid2robot.github.io/vid2robot.pdf   
+- [Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers](https://vid2robot.github.io/vid2robot.pdf) 
 
 ## Reinforcment Learning
 
-- Self-Supervised Reinforcment Learning that Transfers using Random Features
-    - Paper: https://arxiv.org/pdf/2305.17250
+- [Self-Supervised Reinforcment Learning that Transfers using Random Features](https://arxiv.org/pdf/2305.17250)
 
 ## Represent ation Learning
 
